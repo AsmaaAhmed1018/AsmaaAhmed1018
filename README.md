@@ -1,9 +1,5 @@
  Hi👋 I’m Asmaa 🌿
  
- A passionate about modern engineering techniques, 
- 
- An eager to make a meaningful contribution to this field and create a positive impact.
-
 👀 I’m interested in BIM Application and Web Developement
 
 🌱 I’m currently learning Revit API and Angular
