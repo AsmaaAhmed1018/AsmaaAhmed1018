@@ -42,23 +42,14 @@ focused on building **practical and impactful solutions**.
 
 ---
 
-## 📊 GitHub Overview
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=asmaaahmed1018&theme=darkhub&no-frame=true&column=7)
-
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=asmaaahmed1018&theme=gruvbox&hide_border=false&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=asmaaahmed1018&theme=gruvbox&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=asmaaahmed1018&theme=dark&hide_border=true)
 
 ---
 
 ### ✍️ Favorite Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
