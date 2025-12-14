@@ -44,12 +44,12 @@ focused on building **practical and impactful solutions**.
 
 ## 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=asmaaahmed1018&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=asmaaahmed1018&theme=github-dark-blue&hide_border=true)
 
 ---
 
 ### ✍️ Favorite Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github-dark-blue)
 
 ---
 
