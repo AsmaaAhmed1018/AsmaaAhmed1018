@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi 👋 I’m **Asmaa Ahmed** 🌿  
+Hi 👋 I’m **Asmaa Ahmed** 
 
 A passionate engineer with a strong interest in **modern engineering techniques**,  
 focused on building **practical and impactful solutions**.
@@ -12,10 +12,9 @@ focused on building **practical and impactful solutions**.
 ---
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AsmaaAhmed1018)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asmaaahmed1018)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asmaaahmed1018@gmail.com)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AsmaaAhmed1018)
 ---
 
 ## 💻 Tech Stack
@@ -51,7 +50,7 @@ focused on building **practical and impactful solutions**.
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Favorite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
