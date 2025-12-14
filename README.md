@@ -42,6 +42,14 @@ focused on building **practical and impactful solutions**.
 
 ---
 
+## 📊 GitHub Overview
+
+![](https://github-readme-stats.vercel.app/api?username=asmaaahmed1018&theme=gruvbox&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=asmaaahmed1018&theme=gruvbox)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=asmaaahmed1018&theme=github-dark)
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=asmaaahmed1018&theme=gruvbox&hide_border=false&count_private=true)
